@@ -1,0 +1,4 @@
+C:\Users\martin.lindblom\Documents\Projects\ImprovementOne\obj\Debug\net6.0\Improvement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.lindblom\Documents\Projects\ImprovementOne\obj\Debug\net6.0\Improvement.AssemblyInfoInputs.cache
+C:\Users\martin.lindblom\Documents\Projects\ImprovementOne\obj\Debug\net6.0\Improvement.AssemblyInfo.cs
+C:\Users\martin.lindblom\Documents\Projects\ImprovementOne\obj\Debug\net6.0\Improvement.csproj.CoreCompileInputs.cache

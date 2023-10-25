@@ -1,0 +1,4 @@
+C:\Users\martin.lindblom\Documents\Projects\CodeSmells\obj\Debug\net6.0\Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin.lindblom\Documents\Projects\CodeSmells\obj\Debug\net6.0\Problem.AssemblyInfoInputs.cache
+C:\Users\martin.lindblom\Documents\Projects\CodeSmells\obj\Debug\net6.0\Problem.AssemblyInfo.cs
+C:\Users\martin.lindblom\Documents\Projects\CodeSmells\obj\Debug\net6.0\Problem.csproj.CoreCompileInputs.cache
